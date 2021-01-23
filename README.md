@@ -5,7 +5,7 @@
 ## 中文
 这是一个简单的年会抽奖小程序，纯前端构成，支持多种奖项，可调转动速度，支持不同的选取规则
 ## English
-这是一个简单的年会抽奖小程序，纯前端构成，支持多种奖项，可调转动速度，支持不同的选取规则
+This is a simple annual meeting lottery draw mini program, pure front-end structure, supports multiple awards, adjustable rotation speed, and supports different selection rules
 
 ## Build Setup
 
